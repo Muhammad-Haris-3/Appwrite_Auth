@@ -6,7 +6,6 @@ const App = () => {
     <View style={styles.container}>
       <Text style={styles.mainHeading}>Alhamdulillah</Text>
       <Text style={styles.mainHeading}>Alhamdulillah</Text>
-      <Text style={styles.mainHeading}>Alhamdulillah</Text>
     </View>
   );
 };
